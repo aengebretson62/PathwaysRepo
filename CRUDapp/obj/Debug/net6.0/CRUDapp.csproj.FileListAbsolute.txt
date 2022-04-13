@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\bin\Debug\net6.0\CRUDapp.exe
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\bin\Debug\net6.0\CRUDapp.deps.json
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\bin\Debug\net6.0\CRUDapp.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\bin\Debug\net6.0\CRUDapp.dll
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\bin\Debug\net6.0\ref\CRUDapp.dll
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\bin\Debug\net6.0\CRUDapp.pdb
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.dll
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\ref\CRUDapp.dll
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.pdb
+C:\Users\aengebretson\Desktop\NeDL\CRUDapp\obj\Debug\net6.0\CRUDapp.genruntimeconfig.cache

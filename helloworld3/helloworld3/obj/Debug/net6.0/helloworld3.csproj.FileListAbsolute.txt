@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\bin\Debug\net6.0\helloworld3.exe
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\bin\Debug\net6.0\helloworld3.deps.json
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\bin\Debug\net6.0\helloworld3.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\bin\Debug\net6.0\helloworld3.dll
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\bin\Debug\net6.0\ref\helloworld3.dll
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\bin\Debug\net6.0\helloworld3.pdb
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.dll
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\ref\helloworld3.dll
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.pdb
+C:\Users\aengebretson\Desktop\NeDL\helloworld3\helloworld3\obj\Debug\net6.0\helloworld3.genruntimeconfig.cache

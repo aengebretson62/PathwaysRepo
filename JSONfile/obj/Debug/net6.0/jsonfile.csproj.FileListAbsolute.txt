@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\bin\Debug\net6.0\jsonfile.exe
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\bin\Debug\net6.0\jsonfile.deps.json
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\bin\Debug\net6.0\jsonfile.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\bin\Debug\net6.0\jsonfile.dll
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\bin\Debug\net6.0\ref\jsonfile.dll
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\bin\Debug\net6.0\jsonfile.pdb
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.dll
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\ref\jsonfile.dll
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.pdb
+C:\Users\aengebretson\Desktop\NeDL\JSONfile\obj\Debug\net6.0\jsonfile.genruntimeconfig.cache
