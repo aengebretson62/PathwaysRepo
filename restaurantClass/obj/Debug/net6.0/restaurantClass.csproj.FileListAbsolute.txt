@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\bin\Debug\net6.0\restaurantClass.exe
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\bin\Debug\net6.0\restaurantClass.deps.json
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\bin\Debug\net6.0\restaurantClass.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\bin\Debug\net6.0\restaurantClass.dll
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\bin\Debug\net6.0\ref\restaurantClass.dll
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\bin\Debug\net6.0\restaurantClass.pdb
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.dll
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\ref\restaurantClass.dll
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.pdb
+C:\Users\aengebretson\Desktop\NeDL\restaurantClass\obj\Debug\net6.0\restaurantClass.genruntimeconfig.cache
