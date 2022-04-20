@@ -50,7 +50,7 @@ namespace restaurantAPP
 
         public override string ToString()
         {
-            return "Restaurant: " + RName + ": " + RRating;
+            return "Restaurant: " + RName + ":  Rating: " + RRating;
         }
 
     }// class Restaurant
