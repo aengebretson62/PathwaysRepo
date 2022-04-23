@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.exe
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.deps.json
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\bin\Debug\net6.0\ref\listInterfaceCRUD.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.pdb
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\ref\listInterfaceCRUD.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.pdb
+C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.genruntimeconfig.cache
