@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\listInterface\bin\Debug\net6.0\listInterface.exe
+C:\Users\aengebretson\Desktop\NeDL\listInterface\bin\Debug\net6.0\listInterface.deps.json
+C:\Users\aengebretson\Desktop\NeDL\listInterface\bin\Debug\net6.0\listInterface.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\listInterface\bin\Debug\net6.0\listInterface.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterface\bin\Debug\net6.0\ref\listInterface.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterface\bin\Debug\net6.0\listInterface.pdb
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\ref\listInterface.dll
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.pdb
+C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.genruntimeconfig.cache
