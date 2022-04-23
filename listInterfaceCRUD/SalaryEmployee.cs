@@ -2,7 +2,7 @@ using System;
 
 namespace listInterfaceCRUD
 {
-    class SalaryEmployee : Employee, IGetBonus
+    class SalaryEmployee : Employee, IGetBonus, IRate
     {
         public double annualRate  // property
             { get; set; }
@@ -21,6 +21,12 @@ namespace listInterfaceCRUD
         public double GetBonus() // interface method
         {
             return annualRate * .1;
+        }
+
+
+        public override void SetRate(double newRate)  // interface method
+        {
+            annualRate = newRate;
         }
 
         public override string ToString()

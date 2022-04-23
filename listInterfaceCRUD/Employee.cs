@@ -2,7 +2,7 @@ using System;
 
 namespace listInterfaceCRUD
 {
-    class Employee
+    class Employee : IRate
     {
         public string lastName  // property
             { get; set; }
@@ -26,6 +26,12 @@ namespace listInterfaceCRUD
             lastName = newLastName;
             firstName = newFirstName;
             employeeType = newEmployeeType;
+        }
+
+
+        public virtual void SetRate(double newRate)  // interface method
+        {
+            // nothing to do here
         }
 
         public override string ToString()

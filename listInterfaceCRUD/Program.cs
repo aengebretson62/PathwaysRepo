@@ -77,11 +77,60 @@ namespace listInterfaceCRUD
         }
         // print the list again
         foreach (Employee anEmployee in employeeList)
-        {
                 Console.WriteLine(anEmployee);
+ 
+        //==========================================================================   
+
+        // Experiment with deleting an employee in the list
+        //======================================================================
+        Console.Write("Please enter an employee last name to delete: ");
+        string findLastName = Console.ReadLine();
+        Console.Write("Please enter an employee first name to delete: ");
+        string findFirstName = Console.ReadLine();
+        found = false;
+        for (int index = 0; index < employeeList.Count; index++)
+        {
+            if ((employeeList[index].lastName == findLastName) && (employeeList[index].firstName == findFirstName))
+            {
+                employeeList.RemoveAt(index);
                 found = true;
+            }
         }  // end foreach  
-        //==========================================================================            
+        if (found)
+            Console.WriteLine("Employee was deleted.  I hope that is what you wanted!");
+        else
+            Console.WriteLine("Employee not found.  No one was deleted.");
+        // print the list again
+        foreach (Employee anEmployee in employeeList)
+                Console.WriteLine(anEmployee);
+ 
+        //==========================================================================
+
+        // Experiment with updating an employee's hourly rate or salary in the list
+        //======================================================================
+        Console.Write("Please enter an employee last name to update: ");
+        findLastName = Console.ReadLine();
+        Console.Write("Please enter an employee first name to update: ");
+        findFirstName = Console.ReadLine();
+        found = false;
+        for (int index = 0; index < employeeList.Count; index++)
+        {
+            if ((employeeList[index].lastName == findLastName) && (employeeList[index].firstName == findFirstName))
+            {
+                Console.Write("Employee found!  Please enter the new amount:");
+                double newAmount = Convert.ToDouble(Console.ReadLine());
+                employeeList[index].SetRate(newAmount);
+                found = true;
+            }
+        }  // end foreach  
+        if (found)
+            Console.WriteLine("Employee was updated.  I hope that is what you wanted!");
+        else
+            Console.WriteLine("Employee not found.  No one was updated.");
+        // print the list again
+        foreach (Employee anEmployee in employeeList)
+                Console.WriteLine(anEmployee);
+        //==========================================================================         
 
     } // end Main
 
