@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\bin\Debug\net6.0\listAbstractClass.exe
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\bin\Debug\net6.0\listAbstractClass.deps.json
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\bin\Debug\net6.0\listAbstractClass.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\bin\Debug\net6.0\listAbstractClass.dll
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\bin\Debug\net6.0\ref\listAbstractClass.dll
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\bin\Debug\net6.0\listAbstractClass.pdb
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.dll
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\ref\listAbstractClass.dll
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.pdb
+C:\Users\aengebretson\Desktop\NeDL\listAbstractClass\obj\Debug\net6.0\listAbstractClass.genruntimeconfig.cache
