@@ -2,7 +2,7 @@ using System;
 
 namespace listInterfaceCRUD
 {
-    class HourlyEmployee : Employee, IGetBonus, IRate
+    class HourlyEmployee : Employee, IGetBonus
     {
         public double hourlyRate  // property
             { get; set; }

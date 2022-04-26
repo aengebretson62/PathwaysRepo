@@ -28,11 +28,10 @@ namespace listInterfaceCRUD
             employeeType = newEmployeeType;
         }
 
-
         public virtual void SetRate(double newRate)  // interface method
         {
             // nothing to do here
-        }
+        } 
 
         public override string ToString()
         {
