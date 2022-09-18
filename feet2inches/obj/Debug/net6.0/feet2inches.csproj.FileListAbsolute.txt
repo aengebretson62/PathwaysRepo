@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\bin\Debug\net6.0\feet2inches.exe
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\bin\Debug\net6.0\feet2inches.deps.json
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\bin\Debug\net6.0\feet2inches.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\bin\Debug\net6.0\feet2inches.dll
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\bin\Debug\net6.0\ref\feet2inches.dll
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\bin\Debug\net6.0\feet2inches.pdb
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.dll
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\ref\feet2inches.dll
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.pdb
+C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.genruntimeconfig.cache

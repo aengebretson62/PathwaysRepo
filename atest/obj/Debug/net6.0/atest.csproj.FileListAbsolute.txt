@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\atest\bin\Debug\net6.0\atest.exe
+C:\Users\aengebretson\Desktop\NeDL\atest\bin\Debug\net6.0\atest.deps.json
+C:\Users\aengebretson\Desktop\NeDL\atest\bin\Debug\net6.0\atest.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\atest\bin\Debug\net6.0\atest.dll
+C:\Users\aengebretson\Desktop\NeDL\atest\bin\Debug\net6.0\ref\atest.dll
+C:\Users\aengebretson\Desktop\NeDL\atest\bin\Debug\net6.0\atest.pdb
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.dll
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\ref\atest.dll
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.pdb
+C:\Users\aengebretson\Desktop\NeDL\atest\obj\Debug\net6.0\atest.genruntimeconfig.cache
