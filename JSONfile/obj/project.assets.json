@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aengebretson\\desktop\\nedl\\jsonfile\\jsonfile.csproj",
+      "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\JSONfile\\jsonfile.csproj",
       "projectName": "jsonfile",
-      "projectPath": "C:\\Users\\aengebretson\\desktop\\nedl\\jsonfile\\jsonfile.csproj",
+      "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\JSONfile\\jsonfile.csproj",
       "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aengebretson\\desktop\\nedl\\jsonfile\\obj\\",
+      "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\JSONfile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
       }
     }
   }

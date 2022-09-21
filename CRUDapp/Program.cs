@@ -11,6 +11,7 @@ namespace HelloWorld
         bool userChoice;
         string userChoiceString;
         string[] nameArray = new string[10];
+        string fileName = "names.txt";
 
       // Repeat main loop
       do
@@ -60,7 +61,7 @@ namespace HelloWorld
                 Console.WriteLine("In the L/l area");
 
                 int index = 0;  // index for my array
-                using (StreamReader sr = File.OpenText("names.txt"))
+                using (StreamReader sr = File.OpenText(fileName))
             {
                 string s = "";
 				Console.WriteLine(" Here is the content of the file names.txt : ");
