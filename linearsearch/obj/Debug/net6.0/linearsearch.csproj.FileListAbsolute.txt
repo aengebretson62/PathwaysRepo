@@ -1,0 +1,15 @@
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\bin\Debug\net6.0\linearsearch.exe
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\bin\Debug\net6.0\linearsearch.deps.json
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\bin\Debug\net6.0\linearsearch.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\bin\Debug\net6.0\linearsearch.dll
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\bin\Debug\net6.0\ref\linearsearch.dll
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\bin\Debug\net6.0\linearsearch.pdb
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.dll
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\ref\linearsearch.dll
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.pdb
+C:\Users\aengebretson\Desktop\NeDL\linearsearch\obj\Debug\net6.0\linearsearch.genruntimeconfig.cache

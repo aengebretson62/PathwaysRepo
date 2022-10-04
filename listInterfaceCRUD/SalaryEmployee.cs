@@ -15,7 +15,7 @@ namespace listInterfaceCRUD
 
         public SalaryEmployee(string newLastName, string newFirstName, string newEmployeeType, double newAnnualRate) : base (newLastName, newFirstName, newEmployeeType)       // another constructor
         {
-            annualRate = newAnnualRate;
+            SetRate(newAnnualRate);
         }
 
         public double GetBonus() // interface method
