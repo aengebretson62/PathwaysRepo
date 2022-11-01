@@ -1,0 +1,27 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.csprojAssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.genruntimeconfig.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.exe
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.deps.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.genruntimeconfig.cache

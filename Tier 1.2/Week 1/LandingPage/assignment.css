@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  /* Container for top-bar */
+  .top-bar {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #dfb988;
+  }
+  
+  /* Create two equal entries in top-bar */
+  .top-bar-item-left {
+    flex: 50%;
+    text-align: left;
+  }
+  
+    /* Create two equal entries in top-bar */
+  .top-bar-item-right {
+      flex: 50%;
+      text-align: right;
+    }
+
+    /* Separator class */
+    .separator {
+      background-color:chocolate;
+      flex: 100%;
+      height: 20px;
+    }
+
+      /* Container for content-area */
+  .content-area {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #dfb988;
+  }
+  
+  /* Create four equal entries in content-area-item */
+  .content-area-item {
+    flex: 25%;
+    text-align: center;
+  }
+  
+  /* Container for bottom-bar */
+  .bottom-bar {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #dfb988;
+  }
+  
+  /* Create two equal entries in bottom-bar */
+  .bottom-bar-item {
+    flex: 50%;
+    text-align: center;
+  }
+
+  /* Media query - on screens that are 992px wide or less, make the content area two wide */
+  @media screen and (max-width: 992px) {
+  .content-area-item{
+    flex: 50%;
+  }
+}
+
+  /* Media query - on screens that are 600px wide or less, make everything stack on top of each other */
+  @media screen and (max-width: 600px) {
+    .top-bar {
+      flex-direction: column;
+    }
+    .top-bar-item-left {
+      text-align: center;
+    }
+    .top-bar-item-right {
+      text-align: center;
+    }
+    .content-area {
+      flex-direction: column;
+    }
+    .bottom-bar {
+      flex-direction: column;
+    }
+  }
+  

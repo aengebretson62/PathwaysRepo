@@ -1,0 +1,27 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.csprojAssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.genruntimeconfig.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.exe
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.deps.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.runtimeconfig.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Container for flexboxes */
+  .myflexboxRow {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Create two equal entries in myflexbox */
+  .myflexboxColumn {
+    flex: 33%;
+    padding: 20px;
+  }
+  
+  /* Media query - on screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .myflexboxRow {
+      flex-direction: column;
+    }
+  }

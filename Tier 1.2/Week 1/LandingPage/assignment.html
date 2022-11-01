@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lilla Children's Books</title>
+
+    <link rel="stylesheet" href="assignment.css">
+    
+    <!--  The following script loads the Google Map API and runs initMap() once it is loaded -->
+    <script defer
+       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkiABUFByt3GyY3Uw-QBgJ3Y3E_rOAlvQ&callback=initMap">
+    </script>
+    <style type="text/css">
+      #mymap {
+        height: 250px;
+    }
+    </style>
+    <!--  The following script creates a Google map that marks Doane in Crete -->
+    <script>
+    // Initialize and add the map
+    function initMap() {
+      // The location of Doane
+      const doane = { lat: 40.621497514, lng: -96.955496178 };
+      // The map, centered at Doane
+      const map = new google.maps.Map(document.getElementById("mymap"), {
+        zoom: 15,
+        center: doane,
+      });
+      // The marker, positioned at Uluru
+      const marker = new google.maps.Marker({
+        position: doane,
+        map: map,
+      });
+    }
+  </script>
+    
+</head>
+<body>
+
+    <div class="top-bar">
+        <div class="top-bar-item-left">
+            <img src="MyMedia/assignment/logo.jpg" alt="Lilla logo" style="width:200px; vertical-align: middle;">
+        </div>
+        <div class="top-bar-item-right">
+            <a href="http://www.doane.edu" title="Shop our catalog!"><img src="MyMedia/assignment/catalog.png" alt="Lilla catalog" style="width:50px;"></a>
+            <a href="http://www.doane.edu" title="Login or sign up!"><img src="MyMedia/assignment/login.png" alt="Lilla login" style="width:50px;"></a>
+            <a href="http://www.doane.edu" title="See your basket and check out!"><img src="MyMedia/assignment/basket.png" alt="Lilla basket" style="width:50px;"></a>
+        </div>
+    </div>
+    
+    <div class="separator"></div>
+
+    <div class="content-area">
+        <div class="content-area-item">
+            <br />
+            <p><h1>Lilla Books</h1></p>
+            <p><h3><em>Your top source for classic children's books!</em></h3></p>
+            <p><a href="http://www.doane.edu" title="Shop our catalog!">
+            <br />
+            <p><img src="MyMedia/assignment/catalog.png" alt="Lilla catalog" style="width:50px;"></a></p>
+            <p>Shop our catalog!</p>
+
+        </div>
+        <div class="content-area-item">
+            <p><h1>Today's pick by Lilla</h1></p>
+            <a href="http://www.doane.edu" title="Today's pick by Lilla!"><img src="MyMedia/assignment/wildthings.jpg" alt="Today's pick by Lilla" style="width:50%;"></a>
+        </div>
+        <div class="content-area-item">
+            <p><h1>Our most recent arrival</h1></p>
+            <a href="http://www.doane.edu" title="Our most recent arrival"><img src="MyMedia/assignment/charlottesweb.jpg" alt="Our most recent arrival" style="width:50%;"></a>
+        </div>
+        <div class="content-area-item">
+            <p><h1>This month's special!</h1></p>
+            <a href="http://www.doane.edu" title="This month's special!"><img src="MyMedia/assignment/catinthehat.jpg" alt="This month's special" style="width:50%;"></a>
+
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div class="bottom-bar">
+        <div class="bottom-bar-item">
+            <h1>Contact us!</h1>
+            By phone: 123-456-7890
+            <br />By text: 123-456-7890
+            <br />By email: lilla@lillabooks.com
+        </div>
+        <div class="bottom-bar-item">
+            <p><h1>Find us!!</h1></p>
+            <p id="mymap"></p>
+        </div>
+    </div>
+
+</body>
+</html>

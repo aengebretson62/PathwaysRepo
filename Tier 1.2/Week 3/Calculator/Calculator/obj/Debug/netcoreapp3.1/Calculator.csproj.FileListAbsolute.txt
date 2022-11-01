@@ -1,0 +1,40 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

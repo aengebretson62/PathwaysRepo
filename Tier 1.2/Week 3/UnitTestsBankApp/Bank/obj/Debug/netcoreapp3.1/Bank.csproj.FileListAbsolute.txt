@@ -1,0 +1,27 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint12\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache

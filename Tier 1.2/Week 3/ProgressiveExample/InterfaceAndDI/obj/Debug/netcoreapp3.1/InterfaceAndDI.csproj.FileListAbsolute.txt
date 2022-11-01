@@ -1,0 +1,41 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.genruntimeconfig.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csprojAssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.exe
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.deps.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.genruntimeconfig.cache
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.exe
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.deps.json
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.json
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.genruntimeconfig.cache

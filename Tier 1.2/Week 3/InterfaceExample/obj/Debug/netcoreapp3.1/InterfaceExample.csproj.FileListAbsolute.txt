@@ -1,0 +1,27 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csprojAssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.genruntimeconfig.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.exe
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.deps.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.genruntimeconfig.cache

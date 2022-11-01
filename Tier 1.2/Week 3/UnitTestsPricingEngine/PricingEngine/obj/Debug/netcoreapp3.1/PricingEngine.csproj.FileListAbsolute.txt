@@ -1,0 +1,13 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngine.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngine.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngine.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngine.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngine.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngine.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngine.csprojAssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngine.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngine.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngine.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngine.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngine.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngine.genruntimeconfig.cache

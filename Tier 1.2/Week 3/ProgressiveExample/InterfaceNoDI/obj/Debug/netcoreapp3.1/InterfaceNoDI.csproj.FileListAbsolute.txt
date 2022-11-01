@@ -1,0 +1,27 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.exe
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.deps.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.runtimeconfig.dev.json
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.csprojAssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.dll
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.pdb
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.genruntimeconfig.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.exe
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.deps.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.runtimeconfig.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.runtimeconfig.dev.json
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\bin\Debug\netcoreapp3.1\InterfaceNoDI.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.csproj.AssemblyReference.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.AssemblyInfoInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.AssemblyInfo.cs
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.csproj.CoreCompileInputs.cache
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.dll
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.pdb
+C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint11\ProgressiveExample\InterfaceNoDI\obj\Debug\netcoreapp3.1\InterfaceNoDI.genruntimeconfig.cache

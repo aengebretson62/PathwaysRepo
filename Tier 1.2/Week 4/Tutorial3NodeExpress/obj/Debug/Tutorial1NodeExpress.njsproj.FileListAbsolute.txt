@@ -1,0 +1,3 @@
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint14\Tutorial1NodeExpress\obj\Debug\Tutorial1NodeExpress.njsproj.AssemblyReference.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint14\Tutorial1NodeExpress\obj\Debug\Tutorial1NodeExpress.njsproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint14\Tutorial1NodeExpress\bin\Microsoft.NodejsTools.WebRole.dll

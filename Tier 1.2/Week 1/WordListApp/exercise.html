@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 3 Exercise - Javascript Sampling</title>
+
+    <link rel="stylesheet" href="exercise.css">
+    <script src="exercise.js"></script>
+</head>
+<body>
+    <h1>List builder</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Form to obtain a word and place it in a list</h2>
+            <form name="myForm">
+                Word to list: <input type="text" name="newWord" value=""><br />
+                List 1 or 2?: <input type="number" name="newNumber" value=""><br /><br />
+                <input type="button" value="Add to list" onclick="validateANDadd()">
+            </form>
+        </div>
+        <div class="myflexboxColumn">
+            <h2>List 1</h2>
+            <table id="myList1">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList1()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>List 2</h2>
+            <table id="myList2">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList2()">
+        </div>
+    </div>    
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 3 Assignment -Palindrome Checker</title>
+
+    <link rel="stylesheet" href="assignment.css">
+    <script src="assignment.js"></script>
+</head>
+<body>
+    <h1>Palindrome Checker</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Form to obtain a word and then check if it is a palindrome</h2>
+            <form name="myForm">
+                Word to check: <input type="text" name="newWord" value=""><br />
+                Algorithm to use (1 or 2)?: <input type="number" name="newNumber" value=""><br /><br />
+                <input type="button" value="Check and add to list" onclick="validateANDadd()">
+            </form>
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Algorithm 1</h2>
+            <h4>(word: palindrome?)</h4>
+            <table id="myList1">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList1()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Algorithm 2</h2>
+            <h4>(word: palindrome?)</h4>
+            <table id="myList2">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList2()">
+        </div>
+    </div>    
+</body>
+</html>
