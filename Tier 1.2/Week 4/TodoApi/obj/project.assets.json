@@ -7317,11 +7317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint13\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint13\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint13\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",

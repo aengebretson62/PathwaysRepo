@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\BankTests\\BankTests.csproj": {}
+    "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\BankTests\\BankTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\BankTests\\BankTests.csproj": {
+    "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\BankTests\\BankTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\BankTests\\BankTests.csproj",
+        "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\BankTests\\BankTests.csproj",
         "projectName": "BankTests",
-        "projectPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\BankTests\\BankTests.csproj",
+        "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\BankTests\\BankTests.csproj",
         "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\BankTests\\obj\\",
+        "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\BankTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\Bank.csproj": {
-                "projectPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\Bank.csproj"
+              "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj": {
+                "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj"
               }
             }
           }
@@ -76,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\Bank.csproj": {
+    "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\Bank.csproj",
+        "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\Bank.csproj",
+        "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
         "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\obj\\",
+        "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     }

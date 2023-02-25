@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\Bank.csproj",
+      "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\Bank.csproj",
+      "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
       "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint12\\Bank\\obj\\",
+      "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
       }
     }
   }

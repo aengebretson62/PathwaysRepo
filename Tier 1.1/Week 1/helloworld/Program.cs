@@ -6,7 +6,7 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello my NeDL!");    
+      Console.WriteLine("Hello Pathways!");    
     }
   }
 }
