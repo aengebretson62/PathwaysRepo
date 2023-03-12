@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.1\\Week 1\\helloworld\\helloworld.csproj": {}
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 1\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.1\\Week 1\\helloworld\\helloworld.csproj": {
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 1\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.1\\Week 1\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 1\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.1\\Week 1\\helloworld\\helloworld.csproj",
-        "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.1\\Week 1\\helloworld\\obj\\",
+        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 1\\helloworld\\helloworld.csproj",
+        "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 1\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.111\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

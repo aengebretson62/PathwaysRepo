@@ -4,7 +4,7 @@
 using System;
  
 class GFG {
-    public static int search(int[] arr, int x)
+    public static int mySearch(int[] arr, int x)
     {
         int N = arr.Length;
         for (int i = 0; i < N; i++) {
@@ -17,12 +17,12 @@ class GFG {
     // Driver's code
     public static void Main()
     {
-        int[] arr = { 2, 3, 4, 10, 40 };
-        int x = 10;
+      int[] arr = { 2, 3, 4, 10, 40 };
+      int x = 10;
  
         // Function call
-        int result = search(arr, x);
-        if (result == -1)
+       int result = mySearch(arr, x);
+       if (result == -1)
             Console.WriteLine(
                 "Element is not present in array");
         else

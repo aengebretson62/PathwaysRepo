@@ -13,3 +13,18 @@ C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.dll
 C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\ref\feet2inches.dll
 C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.pdb
 C:\Users\aengebretson\Desktop\NeDL\feet2inches\obj\Debug\net6.0\feet2inches.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\bin\Debug\net6.0\feet2inches.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\bin\Debug\net6.0\feet2inches.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\bin\Debug\net6.0\feet2inches.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\bin\Debug\net6.0\feet2inches.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\bin\Debug\net6.0\feet2inches.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\refint\feet2inches.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\feet2inches.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 1\feet2inches\obj\Debug\net6.0\ref\feet2inches.dll
