@@ -24,9 +24,9 @@ class GFG {
        int result = mySearch(arr, x);
        if (result == -1)
             Console.WriteLine(
-                "Element is not present in array");
+                "Element is not present in the array");
         else
-            Console.WriteLine("Element is present at index "
+            Console.WriteLine("Element is in the array at index "
                               + result);
     }
 }
