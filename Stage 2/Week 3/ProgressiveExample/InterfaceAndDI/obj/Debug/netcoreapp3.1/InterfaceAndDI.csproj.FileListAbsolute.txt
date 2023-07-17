@@ -39,3 +39,17 @@ C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceA
 C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.dll
 C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.pdb
 C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.runtimeconfig.dev.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\bin\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ProgressiveExample\InterfaceAndDI\obj\Debug\netcoreapp3.1\InterfaceAndDI.genruntimeconfig.cache

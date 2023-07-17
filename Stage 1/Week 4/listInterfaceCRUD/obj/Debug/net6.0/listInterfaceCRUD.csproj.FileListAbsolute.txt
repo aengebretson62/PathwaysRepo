@@ -13,3 +13,18 @@ C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterf
 C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\ref\listInterfaceCRUD.dll
 C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.pdb
 C:\Users\aengebretson\Desktop\NeDL\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\bin\Debug\net6.0\listInterfaceCRUD.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\refint\listInterfaceCRUD.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\listInterfaceCRUD.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterfaceCRUD\obj\Debug\net6.0\ref\listInterfaceCRUD.dll

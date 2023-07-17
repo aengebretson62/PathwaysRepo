@@ -25,3 +25,17 @@ C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\D
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.dll
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.pdb
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint10\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.runtimeconfig.dev.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\bin\Debug\netcoreapp3.1\MVCExample.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.genruntimeconfig.cache

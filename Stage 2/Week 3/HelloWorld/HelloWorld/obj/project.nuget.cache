@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SYNPNzm6jkkxbzplNpMzbxG0pTfAC49GybaqlHzka6dPI1KNONZKD/fSzV/4jnQpxsbqGxZyh2K9L94AGElebQ==",
+  "dgSpecHash": "yAzbRxaRFKS8tP3e6LwwicIREJ0yFaTUmGDU5dJQEH2QIWDqzuXlDdPU/owNxQFkqop5pgsFHv3N7tOIhiObdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint9\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aenge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\aenge\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\aenge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aenge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

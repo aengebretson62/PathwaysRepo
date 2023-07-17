@@ -39,3 +39,17 @@ C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\UnitTestsBankApp\Bank\obj\Deb
 C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.dll
 C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
 C:\Users\aengebretson\Desktop\NeDL\Tier 1.2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsBankApp\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache

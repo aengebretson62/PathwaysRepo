@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngineTests\\PricingEngineTests.csproj": {}
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngineTests\\PricingEngineTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngineTests\\PricingEngineTests.csproj": {
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngineTests\\PricingEngineTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngineTests\\PricingEngineTests.csproj",
+        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngineTests\\PricingEngineTests.csproj",
         "projectName": "PricingEngineTests",
-        "projectPath": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngineTests\\PricingEngineTests.csproj",
-        "packagesPath": "C:\\Users\\alec.engebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngineTests\\obj\\",
+        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngineTests\\PricingEngineTests.csproj",
+        "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngineTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alec.engebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngine\\PricingEngineApp.csproj": {
-                "projectPath": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngine\\PricingEngineApp.csproj"
+              "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngine\\PricingEngineApp.csproj": {
+                "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngine\\PricingEngineApp.csproj"
               }
             }
           }
@@ -67,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngine\\PricingEngineApp.csproj": {
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngine\\PricingEngineApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngine\\PricingEngineApp.csproj",
+        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngine\\PricingEngineApp.csproj",
         "projectName": "PricingEngineApp",
-        "projectPath": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngine\\PricingEngineApp.csproj",
-        "packagesPath": "C:\\Users\\alec.engebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint12\\PracticeChallenge\\PricingEngine\\obj\\",
+        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngine\\PricingEngineApp.csproj",
+        "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsPricingEngine\\PricingEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alec.engebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,7 +122,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

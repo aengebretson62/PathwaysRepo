@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\aengebretson\\.nuget\\packages\\": {}
+    "C:\\Users\\aenge\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
+      "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
-      "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 3\\UnitTestsBankApp\\Bank\\obj\\",
+      "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsBankApp\\Bank\\Bank.csproj",
+      "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\UnitTestsBankApp\\Bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

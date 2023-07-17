@@ -25,3 +25,17 @@ C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\C
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.dll
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.pdb
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\InClassExercise\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.dev.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\bin\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\ClassRoster\ClassRoster\obj\Debug\netcoreapp3.1\ClassRoster.genruntimeconfig.cache

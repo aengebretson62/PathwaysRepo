@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj": {}
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj": {
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj",
+        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj",
         "projectName": "InterfaceNoDI",
-        "projectPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj",
-        "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aengebretson\\Desktop\\TransitionAcademy\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceNoDI\\obj\\",
+        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\ProgressiveExample\\InterfaceNoDI\\InterfaceNoDI.csproj",
+        "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 3\\ProgressiveExample\\InterfaceNoDI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,15 +37,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

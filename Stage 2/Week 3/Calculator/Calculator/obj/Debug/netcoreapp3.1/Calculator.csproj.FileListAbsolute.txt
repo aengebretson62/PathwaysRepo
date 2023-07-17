@@ -38,3 +38,17 @@ C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
 C:\Users\aengebretson\Desktop\TransitionAcademy\Stage1\Sprint9\PracticeChallenge\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

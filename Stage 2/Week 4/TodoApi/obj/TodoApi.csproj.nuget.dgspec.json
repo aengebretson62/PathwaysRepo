@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\TodoApi.csproj",
-        "packagesPath": "C:\\Users\\aengebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aengebretson\\Desktop\\NeDL\\Tier 1.2\\Week 4\\TodoApi\\obj\\",
+        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\TodoApi.csproj",
+        "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aengebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
@@ -69,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

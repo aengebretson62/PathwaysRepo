@@ -11,3 +11,17 @@ C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\
 C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.dll
 C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.pdb
 C:\Users\alec.engebretson\Desktop\NeDL\Transition Academy\TransitionAcademyRepo\Stage1\Sprint12\PracticeChallenge\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngineApp.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngineApp.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngineApp.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngineApp.runtimeconfig.dev.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngineApp.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\bin\Debug\netcoreapp3.1\PricingEngineApp.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 2\Week 3\UnitTestsPricingEngine\PricingEngine\obj\Debug\netcoreapp3.1\PricingEngineApp.genruntimeconfig.cache

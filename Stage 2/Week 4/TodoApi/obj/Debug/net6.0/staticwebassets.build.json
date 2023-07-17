@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "K4phxWLCPFlzI4Eflptjt0Xo4CBrZsZNgii7f/xFa88=",
+  "Source": "TodoApi",
+  "BasePath": "_content/TodoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApi\\wwwroot",
+      "Source": "TodoApi",
+      "ContentRoot": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\wwwroot\\css\\site.css",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\wwwroot\\index.html",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\wwwroot\\js\\site.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
