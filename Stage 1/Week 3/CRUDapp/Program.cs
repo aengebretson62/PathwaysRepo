@@ -10,7 +10,8 @@ namespace HelloWorld
         // Declare variables
         bool userChoice;
         string userChoiceString;
-        string[] nameArray = new string[10];
+        const int arraySize=12;
+        string[] nameArray = new string[arraySize];
         string fileName = "names.txt";
 
       // Repeat main loop
@@ -62,17 +63,17 @@ namespace HelloWorld
 
                 int index = 0;  // index for my array
                 using (StreamReader sr = File.OpenText(fileName))
-            {
-                string s = "";
-				Console.WriteLine(" Here is the content of the file names.txt : ");
-                while ((s = sr.ReadLine()) != null)
                 {
-                    Console.WriteLine(s);
-                    nameArray[index] = s;
-                    index = index + 1;
+                    string s = "";
+				    Console.WriteLine(" Here is the content of the file names.txt : ");
+                    while ((s = sr.ReadLine()) != null)
+                    {
+                       Console.WriteLine(s);
+                       nameArray[index] = s;
+                        index = index + 1;
+                    }
+                    Console.WriteLine("");
                 }
-                Console.WriteLine("");
-            }
             }
 
         //  TODO: Else if the option is an S or s then store the array of strings into the text file
@@ -94,9 +95,12 @@ namespace HelloWorld
             else if (userChoiceString=="R" || userChoiceString=="r")
             {
                 Console.WriteLine("In the R/r area");
-                for (int index = 0; index < 10; index++)
+                for (int index = 0; index < arraySize; index++)
                 {
-                    Console.WriteLine(nameArray[index]);
+                    if ((nameArray[index])!="")
+                        Console.WriteLine(nameArray[index]);
+                    else
+                        Console.WriteLine("Index " + index + " is available.");
                 }
 
             }

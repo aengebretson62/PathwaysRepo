@@ -18,7 +18,7 @@ class GFG {
     public static void Main()
     {
       int[] arr = { 2, 3, 4, 10, 40 };
-      int x = 2;
+      int x = 5;
  
         // Function call
        int result = mySearch(arr, x);

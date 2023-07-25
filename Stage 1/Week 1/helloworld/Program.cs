@@ -1,12 +1,15 @@
-﻿using System;
+﻿using System; 
 
-namespace HelloWorld
-{
+namespace HelloWorld 
+{ 
   class Program
-  {
+  { 
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello Pathways!");    
+      // This is a comment
+      Console.WriteLine("Hello Alec from Pathways!");   
+      // This is a second line of code
+      Console.WriteLine("Greetings Pathways!"); 
     }
   }
 }
