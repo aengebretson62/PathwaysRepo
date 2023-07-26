@@ -83,7 +83,7 @@ namespace HelloWorld
                 Console.WriteLine("In the S/s area");
             }
 
-        //  TODO: Else if the option is a C or c then add a name to the array (if there's room)
+        //  TODO: Else if the option is a C or c then add a name to the array (if there's room there)
 
             else if (userChoiceString=="C" || userChoiceString=="c")
             {
