@@ -11,7 +11,7 @@ namespace restaurantAPP
         
 
         // This is the default constructor when no values are being passed.
-        public FastFood () : base(null, -1)  // use the parent constructor for the name and rating
+        public FastFood () : base()  // use the parent constructor for the name and rating
         {
             RDriveThru = true;
         }

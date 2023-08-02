@@ -6,6 +6,13 @@ namespace restaurantAPP
   {
     static void Main(string[] args)
     { 
+        Restaurant rest1 = new Restaurant();    // test the first constructor for Restaurant
+        Restaurant rest2 = new Restaurant("Dominos", 2);
+        Console.WriteLine(rest1);
+        Console.WriteLine(rest2);
+        Console.WriteLine();
+
+
         // Declare and instantiate the array of Restaurant objects
         Restaurant[] restaurantArray=new Restaurant[25];
 
@@ -25,6 +32,8 @@ namespace restaurantAPP
         restaurantArray[10].RRating = 4;
         restaurantArray[20].setName("Venue");
         restaurantArray[20].RRating = 5;
+        restaurantArray[3] = rest1;
+        restaurantArray[6] = rest2;
 
 
         // print each restaurant to test the property gets and the toString
@@ -34,6 +43,7 @@ namespace restaurantAPP
             if (!(((restaurantArray[index]).getName())==null))
                 Console.WriteLine(restaurantArray[index]);
         }
+        Console.WriteLine();
 
       // FineDining class
       // test the inheritance with default constructor
@@ -46,6 +56,7 @@ namespace restaurantAPP
       fine2.RReservation = true;
       fine2.RRating = 4;
       Console.WriteLine(fine2);
+      Console.WriteLine();
 
       // test adding a FineDining to the restaurantArray
       restaurantArray[15]=fine2;
@@ -62,7 +73,7 @@ namespace restaurantAPP
       restaurantArray[24] = fast2;
 
       // print each restaurant to test the property gets and the toString
-        Console.WriteLine("\n\nMixing Restaurant and FineDining objects in the array.");
+        Console.WriteLine("\n\nMixing Restaurant and FineDining and FastFood objects in the array.");
         for (int index = 0; index < restaurantArray.Length; index++)
         {
             if (!(((restaurantArray[index]).getName())==null))
