@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 4\\restaurantClass\\restaurantClass.csproj": {}
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\restaurantClassWithInheritance\\restaurantClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 4\\restaurantClass\\restaurantClass.csproj": {
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\restaurantClassWithInheritance\\restaurantClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 4\\restaurantClass\\restaurantClass.csproj",
+        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\restaurantClassWithInheritance\\restaurantClass.csproj",
         "projectName": "restaurantClass",
-        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 4\\restaurantClass\\restaurantClass.csproj",
+        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\restaurantClassWithInheritance\\restaurantClass.csproj",
         "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 4\\restaurantClass\\obj\\",
+        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\restaurantClassWithInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",

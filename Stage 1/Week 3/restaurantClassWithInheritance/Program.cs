@@ -35,6 +35,27 @@ namespace restaurantAPP
                 Console.WriteLine(restaurantArray[index]);
         }
 
+      // test the inheritance with default constructor
+      FineDining fine1 = new FineDining();
+      Console.WriteLine(fine1);
+      FineDining fine2 = new FineDining("Laslos",3,false);
+      Console.WriteLine(fine2);
+      fine2.RReservation = true;
+      fine2.RRating = 4;
+      Console.WriteLine(fine2);
+
+      // test adding a FineDining to the restaurantArray
+      restaurantArray[5]=fine1;
+      restaurantArray[15]=fine2;
+
+              // print each restaurant to test the property gets and the toString
+        Console.WriteLine("\n\nMixing Restaurant and FineDining objects in the array.");
+        for (int index = 0; index < restaurantArray.Length; index++)
+        {
+            if (!(((restaurantArray[index]).getName())==null))
+                Console.WriteLine(restaurantArray[index]);
+        }
+
     } // Main
   } // class
 } // namespace
