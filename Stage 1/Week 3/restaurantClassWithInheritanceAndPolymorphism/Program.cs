@@ -35,11 +35,14 @@ namespace restaurantAPP
                 Console.WriteLine(restaurantArray[index]);
         }
 
+      // FineDining class
       // test the inheritance with default constructor
       FineDining fine1 = new FineDining();
       Console.WriteLine(fine1);
+      // test with the other constructor
       FineDining fine2 = new FineDining("MoMos",3,false);
       Console.WriteLine(fine2);
+      // make some changes on the properties
       fine2.RReservation = true;
       fine2.RRating = 4;
       Console.WriteLine(fine2);
@@ -47,7 +50,18 @@ namespace restaurantAPP
       // test adding a FineDining to the restaurantArray
       restaurantArray[15]=fine2;
 
-              // print each restaurant to test the property gets and the toString
+      // FastFood class
+      // test the inheritance with default constructor
+      FastFood fast1 = new FastFood();
+      Console.WriteLine(fast1);
+      // test with the other constructor
+      FastFood fast2 = new FastFood("BK",2,true);
+      Console.WriteLine(fast2);
+
+      // test adding FastFood to the restaurantArray
+      restaurantArray[24] = fast2;
+
+      // print each restaurant to test the property gets and the toString
         Console.WriteLine("\n\nMixing Restaurant and FineDining objects in the array.");
         for (int index = 0; index < restaurantArray.Length; index++)
         {
