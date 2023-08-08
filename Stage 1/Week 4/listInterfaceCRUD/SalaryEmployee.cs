@@ -29,6 +29,11 @@ namespace listInterfaceCRUD
             annualRate = newRate;
         }
 
+        public override double GetRate ()
+        {
+            return annualRate;
+        }
+
         public override string ToString()
         {
             return base.ToString() + " | Annual salary: $" + annualRate + " | Bonus: $" + GetBonus();

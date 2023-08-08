@@ -27,6 +27,7 @@ namespace listInterfaceCRUD
         foreach (Employee anEmployee in employeeList)
         {
             Console.WriteLine(anEmployee);
+            Console.WriteLine("And that rate again..." + anEmployee.GetRate());
         }  // end foreach  
 
 

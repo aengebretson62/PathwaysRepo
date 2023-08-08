@@ -28,6 +28,11 @@ namespace listInterfaceCRUD
             hourlyRate = newRate;
         }
 
+        public override double GetRate()
+        {
+            return hourlyRate;
+        }
+
         public override string ToString()
         {
             return base.ToString() + " | Hourly rate: $" + hourlyRate + " | Bonus: $" + GetBonus();

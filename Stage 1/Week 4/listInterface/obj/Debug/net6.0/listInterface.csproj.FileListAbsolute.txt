@@ -13,3 +13,18 @@ C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.
 C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\ref\listInterface.dll
 C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.pdb
 C:\Users\aengebretson\Desktop\NeDL\listInterface\obj\Debug\net6.0\listInterface.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\bin\Debug\net6.0\listInterface.exe
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\bin\Debug\net6.0\listInterface.deps.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\bin\Debug\net6.0\listInterface.runtimeconfig.json
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\bin\Debug\net6.0\listInterface.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\bin\Debug\net6.0\listInterface.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.csproj.AssemblyReference.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.AssemblyInfoInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.AssemblyInfo.cs
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.csproj.CoreCompileInputs.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\refint\listInterface.dll
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.pdb
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\listInterface.genruntimeconfig.cache
+C:\Users\aenge\Desktop\Pathways Program\Pathways\PathwaysRepo\Stage 1\Week 4\listInterface\obj\Debug\net6.0\ref\listInterface.dll

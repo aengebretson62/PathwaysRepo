@@ -33,6 +33,12 @@ namespace listInterfaceCRUD
             // nothing to do here
         } 
 
+        public virtual double GetRate()
+        {
+            // nothing to do here
+            return -1;
+        }
+
         public override string ToString()
         {
             return "Employee: " + lastName + ", " + firstName + " | Type: " + employeeType;
