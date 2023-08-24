@@ -1,8 +1,7 @@
 function myFunction() {
-  //  let newName: string = "";
-    var newName = "Alec";
+    let newName: string = " ";
     newName = (<HTMLInputElement>document.getElementById("fname")).value;
     console.log(newName);
-    document.getElementById("greeting").innerHTML = "Greetings " + newName + " !";
+    document.getElementById("greeting").innerHTML = "Greetings " + newName + " !!";
 }
 

@@ -67,10 +67,10 @@ namespace listInterfaceCRUD
             break;
             case "H":
             case "h":
-                Console.Write("Please enter an hourly salary: ");
+                Console.Write("Please enter an hourly pay rate: ");
                 double newEmployeeHourly = Convert.ToDouble(Console.ReadLine());
                 employeeList.Add(new HourlyEmployee(newLastName, newFirstName, newEmployeeType, newEmployeeHourly));
-                Console.WriteLine("Salary employee added.  Printing out new list.");            
+                Console.WriteLine("Hourly employee added.  Printing out new list.");            
             break;
             default:
                 Console.WriteLine("Oops, wrong option and you only get one chance here! Nothing was added.");

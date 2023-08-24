@@ -1,5 +1,5 @@
 function myFunction() {
-    var newName = "";
+    var newName;
     newName = document.getElementById("fname").value;
     document.getElementById("greeting").innerHTML = "And yet more Greetings " + newName + " !";
 }

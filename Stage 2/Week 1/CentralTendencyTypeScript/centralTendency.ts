@@ -54,7 +54,7 @@ function validateANDadd() {
 
         // so first add the number to the list 
         let tableRef = document.getElementById("numberList");
-        (tableRef.insertRow(tableRef.rows.length)).innerHTML = theNewNumber;
+        (tableRef.insertRow(tableRef!.rows.length)).innerHTML = theNewNumber;
 
         //calculate and display the mean
         let sum = 0;    // sum will be the sum of the numbers
@@ -110,7 +110,7 @@ function validateANDadd() {
             }
 
         labelRef1 = document.getElementById("theMode");    
-        (labelRef1.innerHTML as any) = modes;   // show the mode to the user
+        (labelRef1!.innerHTML as any) = modes;   // show the mode to the user
           
         // erase the number in the form
         document.forms["myForm"]["newNumber"].value = "";
@@ -126,14 +126,14 @@ function validateANDadd() {
   function clearAll() {
     // clear the table
     let tableRef = document.getElementById("numberList");
-    tableRef.innerHTML = "";
+    tableRef!.innerHTML = "";
     // clear the mean, median and mode labels
     let labelRef1 = document.getElementById("theMean");
-    labelRef1.innerHTML = "n/a";
+    labelRef1!.innerHTML = "n/a";
     let labelRef2 = document.getElementById("theMedian");
-    labelRef2.innerHTML = "n/a";
+    labelRef2!.innerHTML = "n/a";
     let labelRef3 = document.getElementById("theMode");
-    labelRef3.innerHTML = "n/a";
+    labelRef3!.innerHTML = "n/a";
     // clear the minValue, maxValue and newNumber text boxes
     //     in the form and enable the minValue and maxValue
     document.forms["myForm"]["minValue"].value = "";
