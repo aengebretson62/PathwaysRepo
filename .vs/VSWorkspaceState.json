@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Stage 2",
-    "\\Stage 2\\Week 3\\HelloWorld\\HelloWorld"
+    "\\Stage 2\\Week 3\\Calculator\\Calculator",
+    "\\Stage 2\\Week 4",
+    "\\Stage 2\\Week 4\\TodoApi"
   ],
-  "SelectedNode": "\\Stage 2\\Week 3",
+  "SelectedNode": "\\Stage 2\\Week 4\\TodoApi\\TodoApi.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "8qQYhNLhgI/ncxR99uOkTrle/QaQPo78vyAbO45zlLo=",
+  "Source": "TodoApiCore7",
+  "BasePath": "_content/TodoApiCore7",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApiCore7\\wwwroot",
+      "Source": "TodoApiCore7",
+      "ContentRoot": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApiCore7\\wwwroot\\",
+      "BasePath": "_content/TodoApiCore7",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApiCore7\\wwwroot\\css\\site.css",
+      "SourceId": "TodoApiCore7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApiCore7\\wwwroot\\",
+      "BasePath": "_content/TodoApiCore7",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApiCore7\\wwwroot\\index.html",
+      "SourceId": "TodoApiCore7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 2\\Week 4\\TodoApiCore7\\wwwroot\\",
+      "BasePath": "_content/TodoApiCore7",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

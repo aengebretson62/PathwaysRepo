@@ -36,6 +36,10 @@ namespace MVCSample
         public TipModel(double amt, double percent)
         {
             Amount = amt;
+            if (percent > 1)
+            {
+                percent /= 100;
+            }
             TipPercent = percent;
         }
 

@@ -12,24 +12,24 @@ async function getBaconipsum() {
   const response: Response = await fetch(apiString);
 
   // finally, print the response in the various formats
-  document.getElementById("myRawData").innerHTML = "";   // clear what was previously shown
-  document.getElementById("myFormattedData").innerHTML = "";   // clear what was previously shown
-  document.getElementById("myEncryptedData").innerHTML = "";   // clear what was previously shown
+  document.getElementById("myRawData")!.innerHTML = "";   // clear what was previously shown
+  document.getElementById("myFormattedData")!.innerHTML = "";   // clear what was previously shown
+  document.getElementById("myEncryptedData")!.innerHTML = "";   // clear what was previously shown
 
   const jsonData = await response.json();  // read the response as JSON
   
   // stringify and print out the JSON object in the RawData section
-  document.getElementById("myRawData").innerHTML = JSON.stringify(jsonData);
+  document.getElementById("myRawData")!.innerHTML = JSON.stringify(jsonData);
  
   // loop through the JSON object one paragraph at a time and print each in the FormattedData section
   for (let para in jsonData) {   
-      document.getElementById("myFormattedData").innerHTML += `<p> ${jsonData[para]} </p>`;
+      document.getElementById("myFormattedData")!.innerHTML += `<p> ${jsonData[para]} </p>`;
 
     }
 
   // determine which algorithm to use, encrypt the data using that algorithm, and print in the myEncryptedData section
   let theNewFormat: string = (<HTMLInputElement>document.getElementById("newFormat")).value;  
-  let newJsonData: string;
+  let newJsonData: string = "";
   if (theNewFormat === "1")
       (<any>newJsonData) = cipher1(jsonData);   // apply the first cipher algorithm
   else
@@ -37,7 +37,7 @@ async function getBaconipsum() {
 
   // loop through the encrypted JSON object one paragraph at a time and print each in the EncryptedData section
   for (let para in (<any>newJsonData)) {   
-    document.getElementById("myEncryptedData").innerHTML += "<p>" + newJsonData[para] + "</p>";
+    document.getElementById("myEncryptedData")!.innerHTML += "<p>" + newJsonData[para] + "</p>";
   }
 
   return true;
