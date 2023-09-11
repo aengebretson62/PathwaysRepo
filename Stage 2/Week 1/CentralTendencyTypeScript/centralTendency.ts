@@ -26,7 +26,7 @@ function validateANDadd() {
     else
       theNewMax = parseInt(theNewMaxString)
 
-    // validate that the maximum is greater than the minimum
+    // validate that the maximum is greater than the minimum 
     if (theNewMax <= theNewMin) {
       // a minimum larger than the maximum was entered so tell the user
       alert("The maximum value must be larger than the minimum.");
