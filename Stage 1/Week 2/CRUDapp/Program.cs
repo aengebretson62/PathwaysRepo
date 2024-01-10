@@ -58,6 +58,7 @@ namespace HelloWorld
         //  TODO: If the option is L or l then load the text file (names.txt) into the array of strings (nameArray)
 
             if (userChoiceString=="L" || userChoiceString=="l")
+            { try
             {
                 Console.WriteLine("In the L/l area");
 
@@ -70,10 +71,21 @@ namespace HelloWorld
                     {
                        Console.WriteLine(s);
                        nameArray[index] = s;
-                        index = index + 1;
+                       index = index + 1;
                     }
                     Console.WriteLine("");
                 }
+            }
+            catch (Exception e)
+            {
+                
+                  Console.WriteLine("Sorry that file isn't found");             
+            }
+            finally
+            {
+                    Console.WriteLine ("Let's move on...");
+            }
+
             }
 
         //  TODO: Else if the option is an S or s then store the array of strings into the text file
@@ -97,7 +109,7 @@ namespace HelloWorld
                 Console.WriteLine("In the R/r area");
                 for (int index = 0; index < arraySize; index++)
                 {
-                    if ((nameArray[index])!="")
+                    if ((nameArray[index])!=" ")
                         Console.WriteLine(nameArray[index]);
                     else
                         Console.WriteLine("Index " + index + " is available.");

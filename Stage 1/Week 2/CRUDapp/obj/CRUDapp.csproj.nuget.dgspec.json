@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\CRUDapp\\CRUDapp.csproj": {}
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 2\\CRUDapp\\CRUDapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\CRUDapp\\CRUDapp.csproj": {
+    "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 2\\CRUDapp\\CRUDapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\CRUDapp\\CRUDapp.csproj",
+        "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 2\\CRUDapp\\CRUDapp.csproj",
         "projectName": "CRUDapp",
-        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\CRUDapp\\CRUDapp.csproj",
+        "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 2\\CRUDapp\\CRUDapp.csproj",
         "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\CRUDapp\\obj\\",
+        "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 2\\CRUDapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",

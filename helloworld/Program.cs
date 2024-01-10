@@ -1,5 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Pathways!");
-/* This is another comment that programmers will use, 
-    but this one is multiple lines */
-Console.WriteLine("This is my second line to print out.");
+﻿using System;
+ 
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      // This is a comment
+      Console.WriteLine("Hello Mr. Alec from Pathways!");  
+      // This is a second line of code
+      Console.WriteLine("Greetings Pathways!");
+    }
+  }
+}
