@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\simpleExample\\simpleExample.csproj",
+      "projectUniqueName": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\simpleCarClassExample\\simpleExample.csproj",
       "projectName": "simpleExample",
-      "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\simpleExample\\simpleExample.csproj",
+      "projectPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\simpleCarClassExample\\simpleExample.csproj",
       "packagesPath": "C:\\Users\\aenge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\simpleExample\\obj\\",
+      "outputPath": "C:\\Users\\aenge\\Desktop\\Pathways Program\\Pathways\\PathwaysRepo\\Stage 1\\Week 3\\simpleCarClassExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aenge\\AppData\\Roaming\\NuGet\\NuGet.Config",

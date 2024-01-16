@@ -39,7 +39,7 @@ namespace MyApplication
 
     public override string ToString()
     {
-      return("Color: " + color + " Model: " + model);
+      return("My Color: " + color + " Model: " + model);
     }
   }
 }

@@ -6,6 +6,18 @@ namespace restaurantAPP
   {
     static void Main(string[] args)
     { 
+        // Declare and instantiate a single Restaurant object using the default constructor
+        Restaurant aRestaurant = new Restaurant();
+
+        // Output to show the default constructor values
+        Console.WriteLine(aRestaurant);
+
+        // Declare and instantiate a single Restaurant object using the other constructor
+        Restaurant bRestaurant = new Restaurant("Asian Fusian", 3);
+
+        // Output to show the default constructor values
+        Console.WriteLine(bRestaurant);
+
         // Declare and instantiate the array of Restaurant objects
         Restaurant[] restaurantArray=new Restaurant[25];
 
@@ -34,6 +46,8 @@ namespace restaurantAPP
             if (!(((restaurantArray[index]).getName())==null))
                 Console.WriteLine(restaurantArray[index]);
         }
+
+        
 
     } // Main
   } // class
