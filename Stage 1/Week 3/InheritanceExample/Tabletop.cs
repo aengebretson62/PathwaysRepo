@@ -17,7 +17,7 @@ namespace RectangleApplication {
       // method to calcuate cost assuming $70 per square unit
       public double GetCost() {
          double cost;
-         cost = GetArea() * 70;
+         cost = base.GetArea() * 70;
          return cost;
       }
       // method to display the information
