@@ -1,4 +1,4 @@
-async function getAnotherQuote() {
+async function getDecathlonWorldRecord() {
     // first build the API call string by starting with the URL
     let apiString = "https://decathlon-api.onrender.com/api/";
     // next add the parameters to the string using the drop down list
@@ -12,24 +12,20 @@ async function getAnotherQuote() {
     let response = await fetch(apiString);
   
     // finally, print both the quote and the authoer
-    document.getElementById("theQuote").innerHTML = "";   // clear what was previously shown
-    document.getElementById("theAuthor").innerHTML = "";   // clear what was previously shown
+    document.getElementById("theDecathlonEvent").innerHTML = "";   // clear what was previously shown
+    document.getElementById("theWorldRecord").innerHTML = "";   // clear what was previously shown
   
     let jsonData = await response.json();  // read the response as JSON
    
     console.log(jsonData)
 
-    // stringify and print out the JSON object fields after removing the quotes
-    let theNewEvent = JSON.stringify(jsonData.name);
-    // theNewEvent= theNewEvent.substring(1,theNewQuote.length-1);
-    document.getElementById("theQuote").innerHTML = theNewEvent;
+    //Print out the JSON object fields after removing the quotes
+    document.getElementById("theDecathlonEvent").textContent = jsonData.name;
 
-    // let theNewAuthor = JSON.stringify(jsonData.author);
-    // theNewAuthor = theNewAuthor.substring(1,theNewAuthor.length-1);
-    // document.getElementById("theAuthor").innerHTML = theNewAuthor;
+    document.getElementById("theDecathlonWorldRecordHolder").innerHTML = jsonData.decathlonWorldRecordHolder;
+
+    document.getElementById("theWorldRecord").innerHTML = jsonData.decathlonWorldRecord;
 
     //finally scroll back to the top of the page
     window.scrollTo(0,0);
-  
-    return true;
   }

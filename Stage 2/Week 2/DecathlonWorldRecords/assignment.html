@@ -15,10 +15,8 @@
  
     <!-- Custom styles for this template -->
     <link href="assignment.css" rel="stylesheet">
-
-    <script src="assignment.js"></script>  
   </head>
-  <body onload="getAnotherQuote()">
+  <body onload="getDecathlonWorldRecord()">
     
 <header class="site-header sticky-top py-1">
   <nav class="container d-flex flex-column flex-md-row justify-content-between">
@@ -33,8 +31,9 @@
 <main>
   <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
     <div class="col-md-5 p-lg-5 mx-auto my-5">
-      <h1 class="display-12 fw-normal" id="theQuote"></h1>
-      <p class="lead fw-normal" id="theAuthor"></p>
+      <h1 class="display-12 fw-normal" id="theDecathlonEvent"></h1>
+      <h3 id="theDecathlonWorldRecordHolder"></h3>
+      <p class="lead fw-normal" id="theWorldRecord"></p>
     </div>
     <div class="product-device shadow-sm d-none d-md-block"></div>
     <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
@@ -44,11 +43,12 @@
     <div class="bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div class="my-3 py-3 text-white">
         <h2 class="display-5">Decathlon Events!</h2>
+        <h3>Give the Decathlon API a minute to load.</h3>
       </div>
       <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
         <p class="py-2 d-none d-md-inline-block">
             
-            <label for="newLength">Give the Decathlon API a Minute to Load</label>
+            <label for="newLength">Choose an event to see the Decathlon world record for that event.</label>
             <br />
             <select id="theEvent">
                 <option value="decathlon">The Decathlon</option>
@@ -66,7 +66,7 @@
 
         </p>
         <br />
-        <button type="button" class="btn btn-sm btn-outline-secondary" onclick="getAnotherQuote()">Get another quote!</button>
+        <button type="button" class="btn btn-sm btn-outline-secondary" onclick="getDecathlonWorldRecord()">Get Decathlon World Record</button>
     </div>
     </div>
   </div>
@@ -99,8 +99,8 @@
 </footer>
 
 
-    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="../assets/dist/js/bootstrap.bundle.min.js"></script> -->
 
-      
+    <script src="assignment.js"></script>  
   </body>
 </html>
