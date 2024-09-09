@@ -29,6 +29,8 @@ namespace listAbstractClass
         // Add a couple of salary employees to the salary list to test
         salaryEmployeeList.Add(new SalaryEmployee ("Enge", "Anthony", "S", 45250));
         salaryEmployeeList.Add(new SalaryEmployee ("Enge", "Molly", "S", 60000));
+        // Can't add an HourlyEmployee to the salaryEmployeeList
+        //salaryEmployeeList.Add(new HourlyEmployee ("Enge", "Molly", "H", 60000));
 
         // Print the employee list
         foreach (Employee anEmployee in employeeList)

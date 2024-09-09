@@ -6,7 +6,7 @@ namespace InterfaceAndDI
     {
         static void Main(string[] args)
         {
-            ILogger loggerFile = new MemoryLogger();
+            ILogger loggerFile = new EventLogger();
             ProductService productService1 = new ProductService(loggerFile);
             productService1.Log("New log entry.");
 

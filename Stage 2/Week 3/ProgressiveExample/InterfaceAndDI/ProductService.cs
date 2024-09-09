@@ -2,7 +2,7 @@
 
 namespace InterfaceAndDI
 {
-    public class ProductService
+    public class ProductService : ILogger
     {
         private readonly ILogger _logger;
         public ProductService(ILogger logger)

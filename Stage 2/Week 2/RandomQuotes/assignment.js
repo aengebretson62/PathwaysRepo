@@ -33,7 +33,7 @@ async function getAnotherQuote() {
     document.getElementById("theQuote").innerHTML = theNewQuote;
     var theNewAuthor = JSON.stringify(jsonData.author);
     theNewAuthor = theNewAuthor.substring(1,theNewAuthor.length-1);
-    document.getElementById("theAuthor").innerHTML = theNewAuthor;
+    document.getElementById("theAuthor").innerHTML = theNewAuthor;u
 
     //finally scroll back to the top of the page
     window.scrollTo(0,0);

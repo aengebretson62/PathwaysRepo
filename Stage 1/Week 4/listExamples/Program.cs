@@ -20,6 +20,7 @@ class Geeks {
         firstlist.Add(75);
         firstlist.Add(19);
         firstlist.Add(73);
+        firstlist.Add(120);
   
         Console.WriteLine("Elements Present in List:\n");
   

@@ -11,7 +11,7 @@ namespace restaurantAPP
         
 
         // This is the default constructor when no values are being passed.
-        public FineDining () : base(null, -1)  // use the parent constructor for the name and rating
+        public FineDining () : base()  // use the parent constructor for the name and rating
         {
             RReservation = false;
         }

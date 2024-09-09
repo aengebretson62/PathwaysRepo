@@ -7,7 +7,7 @@ namespace InterfaceNoDI
         public void Log (string message)
         {
             ILogger logger;
-            logger = new DataBaseLogger();    //Class options include FileLogger and DataBaseLogger (and any new ones)
+            logger = new FileLogger();    //Class options include FileLogger and DataBaseLogger (and any new ones)
             logger.Log(message);
 
         }

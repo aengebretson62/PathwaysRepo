@@ -1,18 +1,3 @@
-﻿using System;
-
-namespace Feet2Inches
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-            double inch;
-            Console.Write("Input Value (Feet)  : ");
-            double feet = Convert.ToDouble(Console.ReadLine());
-            inch = feet*12; 
- 
-            Console.WriteLine("{0} Feet  : {1} Inches", feet, inch);
-            Console.ReadKey();    
-    }
-  }
-}
+﻿using System; namespace x { class z { static void Main(string[] args){ double a;
+Console.Write("Input Value  : "); double b = Convert.ToDouble(Console.ReadLine()); a = b*12; 
+Console.WriteLine("{0}    : {1}  ", b, a); Console.ReadKey(); }}}
